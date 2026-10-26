@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>air_teleop</name>
+  <version>0.0.1</version>
+  <description>Drone keyboard teleop package</description>
+  <maintainer email="you@example.com">LJH0786</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+</package>
